@@ -3,5 +3,9 @@ h1 {
   background-color: burlywood;
 }
 h2 {
-  border-color: crimson;
+  color: crimson;
+}
+h3 {
+    text-transform: capitalize;
+    text-decoration-color: bisque;
 }
